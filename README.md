@@ -19,7 +19,7 @@ A simple and intuitive whiteboard application developed using **Tkinter** in Pyt
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/whiteboard.git
+   git clone https://github.com/PrathameshPC77/whiteboard.git
 
 2. Navigate into the project directory:
    ```bash
